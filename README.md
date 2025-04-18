@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhiram KS</h1>
+<h1 align="center">Hi 👋, I'm Abhiram KS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h3 align="center">Flutter Developer | UI/UX Enthusiast</h3>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Abhiram-ks?label=Follow%20Me&style=social)](https://github.com/Abhiram-ks)
 <br>
 
 <p align="center">
