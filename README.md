@@ -19,8 +19,13 @@
 <p> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">   Tech Stack  </p>
 
 <p align="center">
-Flutter | Dart | Firebase | HTML5 |  C  |  C++  |  Java  | SQL | NoSQL |  DSA | Figma | AWS | Git | Bootstrap | Postman
+  Flutter <span style="color: grey;">|</span> Dart <span style="color: grey;">|</span> Firebase <span style="color: grey;">|</span> HTML5 
+  <span style="color: grey;">|</span> C <span style="color: grey;">|</span> C++ <span style="color: grey;">|</span> Java 
+  <span style="color: grey;">|</span> SQL <span style="color: grey;">|</span> NoSQL <span style="color: grey;">|</span> DSA 
+  <span style="color: grey;">|</span> Figma <span style="color: grey;">|</span> AWS <span style="color: grey;">|</span> Git 
+  <span style="color: grey;">|</span> Bootstrap <span style="color: grey;">|</span> Postman
 </p>
+
 
 
 
