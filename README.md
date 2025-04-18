@@ -8,14 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhiram-ks&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-<!-- Animated Developer Lottie -->
-<p align="center">
-  <img src="https://lottie.host/72f1d4ed-4c15-46b4-846a-28f34e983e2f/mtTIoIYZ7u.json" alt="Lottie animation" width="300" />
-</p>
-
----
-
-### ⚙️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
@@ -32,5 +25,5 @@
 
 <!-- Optional clean animated footer GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kutaykutlu/animated-gifs/main/coding.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
