@@ -26,7 +26,7 @@
 <!-- Optional clean animated footer GIF -->
 </br>
 <p style="display: flex; justify-contect: space-between;">
-  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="[https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
