@@ -12,7 +12,7 @@
 
 
 <p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">   About Me </p>
-<p> As a self-taught Flutter developer from Kochi, I specialize in crafting cross-platform mobile applications with a focus on beautiful UI, responsive design, and optimal performance. My passion for Flutter and Dart, along with continuous learning in state management and animations, drives me to build scalable and user-centric mobile experiences. </p>
+<p> As a self-taught Flutter developer, I specialize in crafting cross-platform mobile applications with a focus on beautiful UI, responsive design, and optimal performance. My passion for Flutter and Dart, along with continuous learning in state management and animations, drives me to build scalable and user-centric mobile experiences. </p>
 
 <p> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">   Tech Stack  </p>
 
