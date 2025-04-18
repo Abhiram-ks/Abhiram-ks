@@ -24,9 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
 </p>
 
----
 
-<!-- Optional clean animated footer GIF -->
 
 <p align="center">
   <img alt="GIF 1" width="250px" height="180px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
