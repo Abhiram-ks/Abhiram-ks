@@ -15,8 +15,8 @@
 <p> As a self-taught Flutter developer, I specialize in crafting cross-platform mobile applications with a focus on beautiful UI, responsive design, and optimal performance. My passion for Flutter and Dart, along with continuous learning in state management and animations, drives me to build scalable and user-centric mobile experiences. </p>
 
 <p> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">   Tech Stack  </p>
- `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-<p align="center">
+
+<p align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
