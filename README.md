@@ -6,10 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;Crafting+Digital+Experiences+%E2%9C%A8;Building+the+Future+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 
-<a href="https://www.buymeacoffee.com" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="150">
-</a>
-
 </div>
 
 <p align="center">
