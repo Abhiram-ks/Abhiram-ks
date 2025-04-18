@@ -1,4 +1,4 @@
-<h3 align="center">Flutter Developer | UI/UX Developer</h3>
+<h3 align="center">Flutter Developer | UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhiram-ks-2972092b0/" target="_blank">
