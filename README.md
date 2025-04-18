@@ -1,7 +1,7 @@
 <!-- Minimalist GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Abhiram KS</h1>
-<h3 align="center">Flutter Developer | Passionate about UI/UX</h3>
+<h3 align="center">Flutter Developer | UI/UX Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhiram-ks-2972092b0/" target="_blank">
