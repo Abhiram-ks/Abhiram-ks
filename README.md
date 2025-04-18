@@ -28,12 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
 </p>
-
----
-
-### ✨ Quote
-<p align="center"><em>"Code with passion, learn with purpose."</em></p>
-
 ---
 
 <!-- Background GIF (Optional) -->
