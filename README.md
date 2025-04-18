@@ -15,7 +15,6 @@
   <img src="https://lottie.host/1b9e8ac1-0636-4e25-9c56-fb7f7cd20ac3/cZ7f9fEr2D.json" width="200" alt="lottie animation"/>
 </div>
 
----
 
 ### ⚙️ Tech Stack
 <p align="center">
