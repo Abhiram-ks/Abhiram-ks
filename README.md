@@ -11,9 +11,10 @@
 </p>
 
 <!-- Lottie Animation -->
-<div align="center">
-  <img src="https://lottie.host/1b9e8ac1-0636-4e25-9c56-fb7f7cd20ac3/cZ7f9fEr2D.json" width="200" alt="lottie animation"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
 
 
 ### ⚙️ Tech Stack
