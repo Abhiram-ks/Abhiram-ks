@@ -7,9 +7,10 @@
   <a href="https://www.linkedin.com/in/abhiram-ks-2972092b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-AbhiramKS-blue?style=flat-square&logo=linkedin" />
   </a>
-  ** <a href="https://github.com/Abhiram-ks" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abhiram-ks&show_icons=true&theme=default&hide=prs&count_private=true" alt="GitHub stats" />
-  </a>**
+  <a href="https://github.com/Abhiram-ks" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Contributions-350-green?style=flat-square&logo=github" />
+</a>
+  </a>
 </p>
 
 
