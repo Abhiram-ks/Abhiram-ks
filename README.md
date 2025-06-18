@@ -21,10 +21,9 @@
 
 <p align="center">
   Flutter <span style="color: grey;">|</span> Dart <span style="color: grey;">|</span> Firebase <span style="color: grey;">|</span> HTML5 
-  <span style="color: grey;">|</span> C <span style="color: grey;">|</span> C++ <span style="color: grey;">|</span> Java 
-  <span style="color: grey;">|</span> SQL <span style="color: grey;">|</span> NoSQL <span style="color: grey;">|</span> DSA 
-  <span style="color: grey;">|</span> Figma <span style="color: grey;">|</span> AWS <span style="color: grey;">|</span> Git 
-  <span style="color: grey;">|</span> Bootstrap <span style="color: grey;">|</span> Postman
+  <span style="color: grey;">|</span> C <span style="color: grey;">|</span> C++ <span style="color: grey;">|</span> SQL <span style="color: grey;">|</span> NoSQL <span style="color: grey;">|</span> DSA 
+  <span style="color: grey;">|</span> Figma <span style="color: grey;">|</span> Git 
+  <span style="color: grey;">|</span> Bootstrap <span style="color: grey;">
 </p>
 
 
