@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/abhiram-ks-2972092b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-AbhiramKS-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/Abhiram-ks" target="_blank">
+  <a href="https://drive.google.com/file/d/1wZxg9Q8zyWe9wK8sCavQ_15oGMMMWYat/view" target="_blank">
     <img src="https://drive.google.com/file/d/1wZxg9Q8zyWe9wK8sCavQ_15oGMMMWYat/view" alt="Resume" />
 </a>
   </a>
