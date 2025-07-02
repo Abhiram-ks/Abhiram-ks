@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-AbhiramKS-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://drive.google.com/file/d/1wZxg9Q8zyWe9wK8sCavQ_15oGMMMWYat/view" target="_blank">
-    <img src="https://drive.google.com/file/d/1wZxg9Q8zyWe9wK8sCavQ_15oGMMMWYat/view" alt="Resume" />
+    <img src="https://img.shields.io/badge/LinkedIn-AbhiramKS-blue?style=flat-square&logo=linkedin" />
 </a>
   </a>
 </p>
