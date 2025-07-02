@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Resume-green?style=flat-square&logo=linkedin" />
   </a>
     <a href="https://leetcode.com/u/_abhiramks/" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-Orange?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/Leetcode-grey?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
