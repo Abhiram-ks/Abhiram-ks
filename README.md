@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-AbhiramKS-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/Abhiram-ks" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Contributions-350-green?style=flat-square&logo=github" alt="GitHub Contributions" />
+    <img src="https://drive.google.com/file/d/1wZxg9Q8zyWe9wK8sCavQ_15oGMMMWYat/view" alt="Resume" />
 </a>
   </a>
 </p>
