@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhiram-ks-2972092b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-AbhiramKS-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://drive.google.com/file/d/1wZxg9Q8zyWe9wK8sCavQ_15oGMMMWYat/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-green?style=flat-square&logo=linkedin" />
