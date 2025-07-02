@@ -9,7 +9,9 @@
   </a>
   <a href="https://drive.google.com/file/d/1wZxg9Q8zyWe9wK8sCavQ_15oGMMMWYat/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-green?style=flat-square&logo=linkedin" />
-</a>
+  </a>
+    <a href="https://leetcode.com/u/_abhiramks/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-orenge?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
