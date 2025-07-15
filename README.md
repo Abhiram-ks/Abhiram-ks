@@ -8,7 +8,7 @@
     <a href="https://abhiram-ks.github.io/PersonalWebsite/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-red?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/abhiram-ks-2972092b0/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhiramks0001/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://drive.google.com/file/d/1IQ8SIxxyMf3Xed8Z6nXR4WoMavFgnLtN/view?usp=sharing" target="_blank">
