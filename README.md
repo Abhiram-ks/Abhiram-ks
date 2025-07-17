@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img alt="GIF 1" width="250px" height="180px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img alt="GIF 1" width="250px" height="180px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
   <img alt="GIF 2" width="250px" height="180px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
   <img alt="GIF 3" width="250px" height="180px" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" />
 </p>
