@@ -39,8 +39,6 @@
 <p align="center">
   <img alt="GIF 1" width="250px" height="180px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
   <img alt="GIF 2" width="250px" height="180px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-  <img alt="GIF 2" width="250px" height="180px" src="https://esolz.net/wp-content/uploads/2021/03/ui_img1-500x384.png" />
-      
   <img alt="GIF 3" width="250px" height="180px" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" />
 </p>
 
