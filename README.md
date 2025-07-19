@@ -34,7 +34,11 @@
 
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teja-1403/teja-1403/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teja-1403/teja-1403/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/teja-1403/teja-1403/output/github-snake.svg" />
+</picture>
 
 <p align="center">
   <img alt="GIF 1" width="250px" height="180px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
