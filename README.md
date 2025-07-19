@@ -37,13 +37,3 @@
   <img alt="GIF 2" width="250px" height="180px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
   <img alt="GIF 3" width="250px" height="180px" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" />
 </p>
-
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiram-ks/Abhiram-ks/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiram-ks/Abhiram-ks/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/teja-1403/teja-1403/output/github-snake.svg" />
-</picture>
