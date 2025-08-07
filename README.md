@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/abhiramks0001/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://drive.google.com/file/d/1IQ8SIxxyMf3Xed8Z6nXR4WoMavFgnLtN/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1BkNTbkL4nPon9LziV02D-AAAo0FFf2xF/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-green?style=flat-square&logo=linkedin" />
   </a>
     <a href="https://leetcode.com/u/_abhiramks/" target="_blank">
